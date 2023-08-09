@@ -1,6 +1,5 @@
 # epicary22
-welcome to my informal account! i post random things i do on here.
-i'm pretty proficient in python and i'm learning java.
+welcome! this is my informal account, so i really do whatever i want here. i love python and i want to learn more about java!
 
 current interest: building a physics engine
 
